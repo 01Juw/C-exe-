@@ -1,0 +1,7 @@
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\obj\x86\Debug\独立exe程序通信.Form1.resources
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\obj\x86\Debug\独立exe程序通信.Properties.Resources.resources
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\obj\x86\Debug\独立exe程序通信（Winform版）.csproj.GenerateResource.Cache
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\bin\Debug\通信winform.exe
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\bin\Debug\通信winform.pdb
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\obj\x86\Debug\通信winform.exe
+D:\ZK\传承\独立exe程序通信\独立exe程序通信\obj\x86\Debug\通信winform.pdb

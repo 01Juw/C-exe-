@@ -1,0 +1,11 @@
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\bin\Debug\通信wpf.exe
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\bin\Debug\通信wpf.pdb
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\MainWindow.baml
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\MainWindow.g.cs
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\App.g.cs
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\通信wpf_MarkupCompile.cache
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\通信wpf.g.resources
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\独立exe程序通信_Wpf版_.Properties.Resources.resources
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\独立exe程序通信(Wpf版).csproj.GenerateResource.Cache
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\通信wpf.exe
+D:\ZK\传承\独立exe程序通信\独立exe程序通信(Wpf版)\obj\x86\Debug\通信wpf.pdb
